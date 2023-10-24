@@ -1,9 +1,9 @@
 tomaatti
 kurkku
-peruna
+
 suolakurkku
 majoneesi
-hampurilainen
+
 sipuli
 kurkku kurkku
 maito 
@@ -12,4 +12,8 @@ salaatti
 leipää
 mulkkua
 porkkanoita
-makaronia
+
+asdfad
+
+
+
