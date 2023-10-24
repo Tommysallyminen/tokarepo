@@ -11,3 +11,5 @@ syväkurkku
 salaatti
 leipää
 mulkkua
+porkkanoita
+makaronia
